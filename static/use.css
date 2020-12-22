@@ -1,0 +1,19 @@
+body {
+  background-image: url("useme2.jpeg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  color:blue;
+}
+
+
+h1 {
+	font-family:aerial;
+	font-size:64px;
+	font-style:italic;
+}
+h4 {
+	font-family:Cursive;
+	font-size:22px;
+	font-style:italic;
+}
